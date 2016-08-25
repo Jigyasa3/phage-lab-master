@@ -1,0 +1,14 @@
+name: phage-lab
+
+channels:
+  - bioconda
+  - r
+
+dependencies:
+  - python=3.4
+  - biopython
+  - r-essentials  
+  - samtools
+  - vcftools
+  - bowtie2
+  - fastqc
